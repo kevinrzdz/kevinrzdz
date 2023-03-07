@@ -1,3 +1,5 @@
+<div align="justify">
+
 # 💫 About Me
 
 I'm a technology passionate, currently finishing my studies as web developer. <br><br>I have experience in both back end and front end languages and technologies, such as Javascript, Typescript, React, Angular, Php, Laravel, MySQL, etc.<br><br>As a lifelong learner, I'm constantly seeking new challenges and opportunities to grow my skills and knowledge.<br><br>I would say that I have the ability to collaborate effectively with others. I recognize that teamwork and communication are critical components of success in any environment.<br><br>I believe that strong interpersonal skills are essential for achieving success in any professional setting. Therefore, I am committed to continuously refining my abilities with utmost dedication, compromise, and humility.<br><br>When I'm not coding, I enjoy reading various types of books, hiking with my dog, and spending quality time with my family and friends.<br>
@@ -17,3 +19,5 @@ I'm a technology passionate, currently finishing my studies as web developer. <b
 ![](https://github-profile-trophy.vercel.app/?username=kevinrzdz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
